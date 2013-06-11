@@ -45,3 +45,4 @@ C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\Te
 C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TeachFramework.WinAppForm.resources
 C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.csproj.GenerateResource.Cache
 C:\Users\Vladislav\Desktop\Degree\TeachProgram\TheachingProgram.XML
+C:\Users\Vladislav\Documents\Projects\TeachFramework\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe
