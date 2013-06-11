@@ -1,0 +1,24 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Release\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathProgrammingItems\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathProgrammingItems\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingItems\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingItems\obj\Release\MathProgrammingItems.pdb

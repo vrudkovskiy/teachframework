@@ -1,0 +1,20 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\Teaching programs\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\Teaching programs\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Випускна робота\SimplexTeahing\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\DualSimplexMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\DualSimplexMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\DualSimplexMethodTeaching\obj\Release\DualSimplexMethodTeaching.pdb

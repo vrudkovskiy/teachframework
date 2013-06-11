@@ -1,0 +1,15 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\GomorySecondMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\GomorySecondMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\GomoryTeaching\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\GomorySecondMethodTeaching.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\GomorySecondMethodTeaching\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\GomorySecondMethodTeaching\obj\Release\GomorySecondMethodTeaching.pdb

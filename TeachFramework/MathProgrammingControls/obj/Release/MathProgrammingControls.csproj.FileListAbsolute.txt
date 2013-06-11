@@ -1,0 +1,34 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\TeachFramework.UserControls.LimitationsArea.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\TeachFramework.UserControls.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\MathProgrammingControls.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.UserControls.LimitationsArea.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.UserControls.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\WinForm controls\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\WinForm controls\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.Controls.LimitationsArea.resources
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.Controls.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.Controls.LppView.resources
+C:\Users\Vladislav\Desktop\TeachFramework(1)\SimplexTeahing\MathProgrammingControls\obj\Release\TeachFramework.Controls.TargetFunctionBox.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\TeachFramework.Controls.LimitationsArea.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\TeachFramework.Controls.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\TeachFramework.Controls.LppView.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\TeachFramework.Controls.TargetFunctionBox.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\MathProgrammingControls.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathProgrammingControls\obj\Release\MathProgrammingControls.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\WinForm controls\MathProgrammingControls.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\WinForm controls\MathProgrammingControls.pdb

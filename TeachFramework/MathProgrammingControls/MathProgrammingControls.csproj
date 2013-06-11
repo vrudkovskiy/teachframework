@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{01EA2A7C-311D-40AD-B3D6-62F00CC0320C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TeachFramework.Controls</RootNamespace>
+    <AssemblyName>MathProgrammingControls</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\TeachProgram\WinForm controls\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathProgrammingItems, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TeachFramework\TheachingProgram\bin\Debug\Teaching programs\MathProgrammingItems.dll</HintPath>
+    </Reference>
+    <Reference Include="MathTypes, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TeachFramework\TheachingProgram\bin\Debug\Teaching programs\MathTypes.dll</HintPath>
+    </Reference>
+    <Reference Include="ModelKernel, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TeachProgram\ModelKernel.dll</HintPath>
+    </Reference>
+    <Reference Include="Presenter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TeachProgram\Presenter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Builders\DppViewBuilder.cs" />
+    <Compile Include="Builders\LimitationsAreaBuilder.cs" />
+    <Compile Include="Builders\LppResultViewBuilder.cs" />
+    <Compile Include="Builders\LppViewBuilder.cs" />
+    <Compile Include="Builders\SimplexTableViewBuilder.cs" />
+    <Compile Include="Builders\StepsContainerBuilder.cs" />
+    <Compile Include="Builders\TargetFunctionBoxBuilder.cs" />
+    <Compile Include="Declarations\DppView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\DppView.designer.cs">
+      <DependentUpon>DppView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\LimitationsArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\LimitationsArea.designer.cs">
+      <DependentUpon>LimitationsArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\LppResultView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\LppResultView.designer.cs">
+      <DependentUpon>LppResultView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\LppView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\LppView.designer.cs">
+      <DependentUpon>LppView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\SimplexTableView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Declarations\SimplexTableView.designer.cs">
+      <DependentUpon>SimplexTableView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\StepsContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\StepsContainer.designer.cs">
+      <DependentUpon>StepsContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Declarations\TargetFunctionBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Declarations\TargetFunctionBox.designer.cs">
+      <DependentUpon>TargetFunctionBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Declarations\LimitationsArea.resx">
+      <DependentUpon>LimitationsArea.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Declarations\LppView.resx">
+      <DependentUpon>LppView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Declarations\TargetFunctionBox.resx">
+      <DependentUpon>TargetFunctionBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\brace.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

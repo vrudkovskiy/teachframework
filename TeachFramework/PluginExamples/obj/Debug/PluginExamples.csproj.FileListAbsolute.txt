@@ -1,0 +1,7 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Debug\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Debug\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Debug\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Debug\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Debug\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Debug\PluginExamples.pdb

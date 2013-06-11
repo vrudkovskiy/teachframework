@@ -1,0 +1,24 @@
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.xml
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\bin\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\bin\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\bin\Release\ModelKernel.xml
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\obj\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PresenterKernel\obj\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\bin\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\bin\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\bin\Release\ModelKernel.xml
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\obj\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PresenterKernel\obj\Release\Presenter.pdb

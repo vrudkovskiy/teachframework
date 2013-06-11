@@ -1,0 +1,7 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Debug\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Debug\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Debug\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\bin\Debug\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Debug\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathProgrammingItems\obj\Debug\MathProgrammingItems.pdb

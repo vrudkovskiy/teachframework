@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ModelKernel</name>
+    </assembly>
+    <members>
+        <member name="T:TeachFramework.AbstractDynamicModel">
+            <summary>
+            Basic class for dynemic models
+            </summary>
+        </member>
+        <member name="T:TeachFramework.AbstractModel">
+            <summary>
+            Basic class for static models
+            </summary>
+        </member>
+        <member name="T:TeachFramework.Interfaces.IModel">
+            <summary>
+            Interface for step models
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Interfaces.IModel.GetDescription">
+            <summary>
+            Gets model's title
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Interfaces.IModel.ExecuteStep(TeachFramework.UiDescription)">
+            <summary>
+            Executes one model's step
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Interfaces.IModel.Reset">
+            <summary>
+            Sets initial settings
+            </summary>
+        </member>
+        <member name="P:TeachFramework.Interfaces.IModel.IsEnd">
+            <summary>
+            Returns true if all steps have been done
+            </summary>
+        </member>
+        <member name="F:TeachFramework.AbstractModel.Steps">
+            <summary>
+            Collection of all model's steps
+            </summary>
+        </member>
+        <member name="F:TeachFramework.AbstractModel.Description">
+            <summary>
+            Model's title
+            </summary>
+        </member>
+        <member name="M:TeachFramework.AbstractModel.GetDescription">
+            <summary>
+            Gets model's title
+            </summary>
+        </member>
+        <member name="M:TeachFramework.AbstractModel.ExecuteStep(TeachFramework.UiDescription)">
+            <summary>
+            Executes one step from model
+            </summary>
+        </member>
+        <member name="M:TeachFramework.AbstractModel.Reset">
+            <summary>
+            Sets initial settings
+            </summary>
+        </member>
+        <member name="P:TeachFramework.AbstractModel.IsEnd">
+            <summary>
+            Returns true if all steps have been done
+            </summary>
+        </member>
+        <member name="T:TeachFramework.AbstractModel.Step">
+            <summary>
+            One step
+            </summary>
+        </member>
+        <member name="M:TeachFramework.AbstractDynamicModel.ExecuteStep(TeachFramework.UiDescription)">
+            <summary>
+            Executes one step from model
+            </summary>
+        </member>
+        <member name="M:TeachFramework.AbstractDynamicModel.SetStartStep(TeachFramework.AbstractModel.Step)">
+            <summary>
+            Sets initial model's step
+            </summary>
+            <param name="step"></param>
+        </member>
+        <member name="M:TeachFramework.AbstractDynamicModel.SetNextStep(TeachFramework.AbstractModel.Step)">
+            <summary>
+            Sets next model's step
+            </summary>
+            <param name="step"></param>
+        </member>
+        <member name="M:TeachFramework.AbstractDynamicModel.Reset">
+            <summary>
+            Sets initial settings
+            </summary>
+        </member>
+        <member name="T:TeachFramework.SimplexTableViewSettings">
+            <summary>
+            Setting for simplex-table control
+            </summary>
+        </member>
+        <member name="P:TeachFramework.SimplexTableViewSettings.RowCount">
+            <summary>
+            Gets or sets row count
+            </summary>
+        </member>
+        <member name="P:TeachFramework.SimplexTableViewSettings.VariableCount">
+            <summary>
+            Gets or sets variable count
+            </summary>
+        </member>
+        <member name="P:TeachFramework.SimplexTableViewSettings.Variables">
+            <summary>
+            Gets or sets variables
+            </summary>
+        </member>
+        <member name="T:TeachFramework.Exceptions.DuplicateDataException">
+            <summary>
+            Occures, when Datas with same names was added to user interface description
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Exceptions.DuplicateDataException.#ctor(System.String)">
+            <summary>
+            Represents DuplicateDataException
+            </summary>
+            <param name="duplicatedName"></param>
+        </member>
+        <member name="T:TeachFramework.Exceptions.NoSuchDataException">
+            <summary>
+            Occures, when collection doesn't have requested Data
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Exceptions.NoSuchDataException.#ctor(System.String)">
+            <summary>
+            Represents NoSuchDataException
+            </summary>
+            <param name="dataName"></param>
+        </member>
+        <member name="T:TeachFramework.Exceptions.InvalidModelException">
+            <summary>
+            Occures when error was in model
+            </summary>
+        </member>
+        <member name="M:TeachFramework.Exceptions.InvalidModelException.#ctor(System.String)">
+            <summary>
+            Represents InvalidModelException
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:TeachFramework.LppResultViewSettings">
+            <summary>
+            Settings for LppResultView control
+            </summary>
+        </member>
+        <member name="T:TeachFramework.UiDescription">
+            <summary>
+            User interface description
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.#ctor">
+            <summary>
+            Represents user interface description
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(TeachFramework.UiDescriptionItem)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.Collections.Generic.IEnumerable{TeachFramework.UiDescriptionItem})">
+            <summary>
+            Adds data items to end of collection(controls will be under previous controls)
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.String,System.String,System.String,System.Object,System.Boolean,System.Boolean)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            - input parameters are data item parameters
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.String,System.String,System.String,System.Object,System.Boolean,System.Boolean,System.Object)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            - input parameters are data item parameters
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.String,System.String,System.String,System.Object)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            - input parameters are data item parameters;
+            - isEditable and check will be initialized as false
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.String,System.String,System.String,System.Object,System.Boolean)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            - input parameters are data item parameters;
+            - check will be initialized as false
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Add(System.String,System.String,System.Object)">
+            <summary>
+            Adds data item to end of collection(control will be under previous controls)
+            - input parameters are data item parameters;
+            - isEditable and check will be initialized as false
+            - text will be initialized as empty string
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Remove(System.String)">
+            <summary>
+            Removes data item from collection by name
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Contains(System.String)">
+            <summary>
+            Returns true if collection contains item with such name
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Clear">
+            <summary>
+            Clears collection
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.GetDataToCheck">
+            <summary>
+            Gets data which needs check(key - Name, value - Value)
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.CreateData(System.String,System.String,System.String,System.Object,System.Boolean,System.Boolean,System.Object)">
+            <summary>
+            Creates data item
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.CopyTo(System.Array,System.Int32)">
+            <summary>
+            Copies all data items to array
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Contains(TeachFramework.UiDescriptionItem)">
+            <summary>
+            Returns true if collection contains such item
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.CopyTo(TeachFramework.UiDescriptionItem[],System.Int32)">
+            <summary>
+            Copies all data items to array
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Remove(TeachFramework.UiDescriptionItem)">
+            <summary>
+            Removes such data item from collection
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.System#Collections#IEnumerable#GetEnumerator">
+            <summary>
+            Gets enumerator
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.System#Collections#Generic#IEnumerable{TeachFramework#UiDescriptionItem}#GetEnumerator">
+            <summary>
+            Gets enumerator
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.Item(System.String)">
+            <summary>
+            Gets data item by name
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.Count">
+            <summary>
+            Gets item count
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.IsSynchronized">
+            <summary>
+            Returns true if collection is thread safe
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.SyncRoot">
+            <summary>
+            Returns object for lock
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.IsReadOnly">
+            <summary>
+            Always returns false
+            </summary>
+        </member>
+        <member name="T:TeachFramework.UiDescription.Enumerator">
+            <summary>
+            User interface description enumerator
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Enumerator.#ctor(System.Collections.Generic.Dictionary{System.String,TeachFramework.UiDescriptionItem})">
+            <summary>
+            Represents user interface description enumerator
+            </summary>
+            <param name="data"></param>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Enumerator.MoveNext">
+            <summary>
+            Sets next object
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Enumerator.Reset">
+            <summary>
+            Reset enumerator
+            </summary>
+        </member>
+        <member name="M:TeachFramework.UiDescription.Enumerator.Dispose">
+            <summary>
+            Dispose(){}
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescription.Enumerator.Current">
+            <summary>
+            Gets current object
+            </summary>
+        </member>
+        <member name="T:TeachFramework.StepVariants">
+            <summary>
+            Steps container's settings
+            </summary>
+        </member>
+        <member name="M:TeachFramework.StepVariants.#ctor">
+            <summary>
+            Represents StepVariants
+            </summary>
+        </member>
+        <member name="M:TeachFramework.StepVariants.#ctor(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            Represents StepVariants
+            </summary>
+        </member>
+        <member name="M:TeachFramework.StepVariants.Add(System.String)">
+            <summary>
+            Adds variant
+            </summary>
+        </member>
+        <member name="M:TeachFramework.StepVariants.CompareTo(System.Object)">
+            <summary>
+            Returns '0' if current object contains one of the variants from input object, else return '-1'
+            </summary>
+        </member>
+        <member name="P:TeachFramework.StepVariants.Variants">
+            <summary>
+            All variants
+            </summary>
+        </member>
+        <member name="T:TeachFramework.ModelsLoader">
+            <summary>
+            Static class for model loading
+            </summary>
+        </member>
+        <member name="M:TeachFramework.ModelsLoader.LoadModels(System.String)">
+            <summary>
+            Loads all models from directory by path
+            </summary>
+        </member>
+        <member name="T:TeachFramework.UiDescriptionItem">
+            <summary>
+            Control description
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.Editable">
+            <summary>
+            True if isn't read only
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.Name">
+            <summary>
+            Object's name
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.Text">
+            <summary>
+            Some text information about control
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.CheckRequired">
+            <summary>
+            True if control requires checking
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.Value">
+            <summary>
+            Control's value
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.ControlType">
+            <summary>
+            Control's type
+            </summary>
+        </member>
+        <member name="P:TeachFramework.UiDescriptionItem.ControlSettings">
+            <summary>
+            Additional settings
+            </summary>
+        </member>
+    </members>
+</doc>

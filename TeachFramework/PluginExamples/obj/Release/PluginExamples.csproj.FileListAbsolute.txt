@@ -1,0 +1,26 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Release\Other.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Release\Other.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Plugins\Other.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Plugins\Other.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\Teaching programs\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Release\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PluginExamples\obj\Release\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\Teaching programs\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PluginExamples\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PluginExamples\obj\Release\PluginExamples.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PluginExamples\obj\Release\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\Teaching programs\PluginExamples.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\Teaching programs\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PluginExamples\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PluginExamples\obj\Release\PluginExamples.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\PluginExamples\obj\Release\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\PluginExamples.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\Teaching programs\PluginExamples.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PluginExamples\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PluginExamples\obj\Release\PluginExamples.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\PluginExamples\obj\Release\PluginExamples.pdb

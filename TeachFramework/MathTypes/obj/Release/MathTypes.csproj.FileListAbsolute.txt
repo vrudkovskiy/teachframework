@@ -1,0 +1,22 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\bin\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\bin\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathTypes\obj\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\MathTypes\obj\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\MathTypes.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\MathTypes.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathTypes\obj\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\MathTypes\obj\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\MathTypes.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\MathTypes.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathTypes\obj\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\MathTypes\obj\Release\MathTypes.pdb

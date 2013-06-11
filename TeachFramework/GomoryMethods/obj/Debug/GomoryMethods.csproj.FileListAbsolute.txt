@@ -1,0 +1,9 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\GomoryMethods.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\GomoryMethods.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\bin\Debug\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\obj\Debug\GomoryMethods.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\GomoryMethods\obj\Debug\GomoryMethods.pdb

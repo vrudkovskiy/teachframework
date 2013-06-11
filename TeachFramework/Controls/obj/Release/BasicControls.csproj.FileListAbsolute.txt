@@ -1,0 +1,20 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\BasicControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\BasicControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\BasicControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\BasicControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\WinForm controls\BasicControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\WinForm controls\BasicControls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\Controls\obj\Release\BasicControls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\Controls\obj\Release\BasicControls.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\WinForm controls\BasicControls.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\WinForm controls\BasicControls.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\Controls\obj\Release\BasicControls.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\Controls\obj\Release\BasicControls.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\WinForm controls\BasicControls.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\WinForm controls\BasicControls.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\Controls\obj\Release\BasicControls.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\Controls\obj\Release\BasicControls.pdb

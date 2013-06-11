@@ -1,0 +1,8 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\ControlsForSimplex.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\ControlsForSimplex.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\ControlsForSimplex.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\TeachFramework.UserControls.LimitationsArea.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\ControlsForSimplex.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\ControlsForSimplex.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\SimplexTeahing\ControlsForSimplex\obj\Release\TeachFramework.UserControls.Properties.Resources.resources

@@ -1,0 +1,14 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\bin\Release\PresenterKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\bin\Release\PresenterKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\obj\Release\PresenterKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\PresenterKernel\obj\Release\PresenterKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\bin\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\PresenterKernel\obj\Release\Presenter.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\bin\Debug\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\bin\Debug\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Debug\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\MathTypes\obj\Debug\MathTypes.pdb

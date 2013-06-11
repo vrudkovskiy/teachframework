@@ -1,0 +1,5 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\bin\Debug\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\bin\Debug\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Debug\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Debug\ModelKernel.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\bin\Debug\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\bin\Debug\Presenter.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\bin\Debug\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\bin\Debug\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\obj\Debug\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Presenter\obj\Debug\Presenter.pdb

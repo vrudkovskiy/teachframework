@@ -1,0 +1,47 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\TheachingProgram.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\MathProgrammingItems.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\MathTypes.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\Presenter.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\MathTypes.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\Presenter.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\bin\Release\MathProgrammingItems.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TeachFramework.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\TheachingProgram.exe.manifest
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\TheachingProgram.application
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.TrustInfo.xml
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe.manifest
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.application
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\TheachingProgram.exe.config
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\TheachingProgram.exe.manifest
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\TheachingProgram.application
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TeachFramework.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.TrustInfo.xml
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe.manifest
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.application
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\TheachingProgram\obj\Release\TeachFramework.WinAppForm.resources
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\TheachingProgram.XML
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\TheachingProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\TheachingProgram\obj\Release\TeachFramework.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\TheachingProgram\obj\Release\TeachFramework.WinAppForm.resources
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\TheachingProgram.XML
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\TheachingProgram.exe
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TeachFramework.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TeachFramework.WinAppForm.resources
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\TheachingProgram\obj\Release\TheachingProgram.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\TheachingProgram.XML

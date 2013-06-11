@@ -1,0 +1,23 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\bin\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\bin\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\ModelKernel\obj\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachProgram\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\ModelKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\ModelKernel\obj\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\TeachFramework(1)\TeachFramework\ModelKernel\obj\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\ModelKernel.XML
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachProgram\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\ModelKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\ModelKernel\obj\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Випускна робота\TeachFramework\ModelKernel\obj\Release\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Degree\TeachProgram\ModelKernel.pdb
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\ModelKernel\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\ModelKernel\obj\Release\ModelKernel.dll
+C:\Users\Vladislav\Desktop\Degree\TeachFramework\ModelKernel\obj\Release\ModelKernel.pdb

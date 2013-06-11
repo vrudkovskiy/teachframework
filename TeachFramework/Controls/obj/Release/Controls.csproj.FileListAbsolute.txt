@@ -1,0 +1,5 @@
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\Controls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachProgram\WinForm controls\Controls.pdb
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\Controls.dll
+C:\Users\Vladislav\Desktop\TeachFramework(alpha)\TeachFramework\Controls\obj\Release\Controls.pdb

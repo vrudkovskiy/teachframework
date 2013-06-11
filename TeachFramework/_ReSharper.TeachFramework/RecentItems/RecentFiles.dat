@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataLabel.cs" caret="0" fromTop="0" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:SignedTextBox.cs" caret="1510" fromTop="32" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:SignedTextBox.Designer.cs" caret="0" fromTop="0" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataRadioButton.Designer.cs" caret="0" fromTop="0" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Builders/f:DataRadioButtonBuilder.cs" caret="0" fromTop="0" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Builders/f:SignedTextBoxBuilder.cs" caret="0" fromTop="0" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataRadioButton.cs" caret="321" fromTop="10" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Interfaces/f:IView.cs" caret="96" fromTop="5" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Interfaces/f:IViewBuilder.cs" caret="173" fromTop="8" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:StepVariants.cs" caret="191" fromTop="8" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Interfaces/f:IDataControlBuilder.cs" caret="44" fromTop="2" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Interfaces/f:IValidateable.cs" caret="44" fromTop="2" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Interfaces/f:IDataControl.cs" caret="44" fromTop="2" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Interfaces/f:IModel.cs" caret="118" fromTop="5" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:UiDescription.cs" caret="4177" fromTop="13" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Exceptions/f:DuplicateDataException.cs" caret="423" fromTop="13" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:NotExistingControlException.cs" caret="136" fromTop="5" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:AbstractDynamicModel.cs" caret="852" fromTop="13" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:NotComparableDataValueException.cs" caret="140" fromTop="5" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Exceptions/f:InvalidModelException.cs" caret="154" fromTop="7" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="10169" fromTop="15" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:InvalidControlDataValueException.cs" caret="141" fromTop="6" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:ControlsRegistrator.cs" caret="638" fromTop="16" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="1053" fromTop="30" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:ControlDescriptionDuplicateException.cs" caret="207" fromTop="8" />
+    <File id="DB3CC4BD-54C7-40FE-915A-FAF83A897453/f:Program.cs" caret="434" fromTop="17" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Exceptions/f:NoSuchDataException.cs" caret="194" fromTop="7" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:NotMatchedValuesException.cs" caret="229" fromTop="9" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:AbstractModel.cs" caret="1751" fromTop="11" />
+    <File id="DB3CC4BD-54C7-40FE-915A-FAF83A897453/f:TeachingProgramForm.cs" caret="306" fromTop="12" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:UiDescription.cs" caret="9925" fromTop="23" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:UiDescription.cs" caret="10260" fromTop="25" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/f:UiDescription.cs" caret="10518" fromTop="28" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Exceptions/f:DuplicateDataException.cs" caret="309" fromTop="10" />
+    <File id="B483BE97-299E-465E-86D6-C8705464E16F/d:Exceptions/f:InvalidModelException.cs" caret="263" fromTop="10" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="687" fromTop="21" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="6677" fromTop="12" />
+    <File id="DB3CC4BD-54C7-40FE-915A-FAF83A897453/f:TeachingProgramForm.cs" caret="6032" fromTop="21" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="920" fromTop="14" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="3662" fromTop="14" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="6210" fromTop="10" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="6116" fromTop="16" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="6506" fromTop="27" />
+    <File id="A7AB460C-CA0B-4502-A7C4-1BAD1DD775C2/d:LinearProgramming/f:LinearProgrammingProblem.cs" caret="343" fromTop="11" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/d:Exceptions/f:NotMatchedValuesException.cs" caret="472" fromTop="12" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="367" fromTop="13" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="6054" fromTop="32" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="1412" fromTop="30" />
+    <File id="0FC21FFE-BA69-48BB-9D18-C50679B6BDBD/f:Presenter.cs" caret="5895" fromTop="21" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="1818" fromTop="28" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="758" fromTop="15" />
+    <File id="FCE8BB72-D57E-4FB2-A26A-17AB4A953024/f:Addition.cs" caret="1275" fromTop="26" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataLabel.cs" caret="1388" fromTop="32" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Builders/f:DataLabelBuilder.cs" caret="61" fromTop="2" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Builders/f:DataRadioButtonBuilder.cs" caret="61" fromTop="3" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Builders/f:SignedTextBoxBuilder.cs" caret="52" fromTop="3" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:SignedTextBox.cs" caret="1510" fromTop="32" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataRadioButton.cs" caret="1157" fromTop="2" />
+    <File id="8F3E3C4C-178C-4933-BDE9-5C78240B355A/d:Declarations/f:DataRadioButton.cs" caret="1231" fromTop="32" />
+    <File id="DB3CC4BD-54C7-40FE-915A-FAF83A897453/f:TeachingProgramForm.cs" caret="80" fromTop="3" />
+  </RecentEdits>
+</RecentFiles>
