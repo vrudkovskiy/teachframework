@@ -10,4 +10,7 @@
 
 @interface ViewController : UIViewController
 
+- (void)setDataControls:(NSString *)jsonArrayString;
+- (void)clearControls;
+
 @end

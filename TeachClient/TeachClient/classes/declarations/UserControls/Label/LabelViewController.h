@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 QAP. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "UiItemProtocol.h"
 
-@interface LabelViewController : UIViewController
+@interface LabelViewController : UIViewController<UiItemProtocol>
 
 @end

@@ -18,8 +18,20 @@
 		D98441A3176EE7E800CB4996 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D98441A2176EE7E800CB4996 /* Default-568h@2x.png */; };
 		D98441A6176EE7E800CB4996 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98441A5176EE7E800CB4996 /* ViewController.m */; };
 		D98441A9176EE7E800CB4996 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98441A7176EE7E800CB4996 /* ViewController.xib */; };
-		D98441C4176EEBA200CB4996 /* LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98441C2176EEBA200CB4996 /* LabelViewController.m */; };
-		D98441C5176EEBA200CB4996 /* LabelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98441C3176EEBA200CB4996 /* LabelViewController.xib */; };
+		D988CCD5177044D000A484D5 /* CellNotSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD1177044D000A484D5 /* CellNotSelected.png */; };
+		D988CCD6177044D000A484D5 /* CellNotSelected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */; };
+		D988CCD7177044D000A484D5 /* CellSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD3177044D000A484D5 /* CellSelected.png */; };
+		D988CCD8177044D000A484D5 /* CellSelected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD4177044D000A484D5 /* CellSelected@2x.png */; };
+		D988CCF6177089FF00A484D5 /* DataRadioButtonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CCE7177089FF00A484D5 /* DataRadioButtonViewController.m */; };
+		D988CCF7177089FF00A484D5 /* DataRadioButtonViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D988CCE8177089FF00A484D5 /* DataRadioButtonViewController.xib */; };
+		D988CCF8177089FF00A484D5 /* RadioButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CCEB177089FF00A484D5 /* RadioButton.m */; };
+		D988CCF9177089FF00A484D5 /* LabelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CCEE177089FF00A484D5 /* LabelViewController.m */; };
+		D988CCFA177089FF00A484D5 /* LabelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D988CCEF177089FF00A484D5 /* LabelViewController.xib */; };
+		D988CCFB177089FF00A484D5 /* SignedTextBoxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CCF2177089FF00A484D5 /* SignedTextBoxViewController.m */; };
+		D988CCFC177089FF00A484D5 /* SignedTextBoxViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D988CCF3177089FF00A484D5 /* SignedTextBoxViewController.xib */; };
+		D988CD0B17708AAA00A484D5 /* DataRadioButtonBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD0A17708AA900A484D5 /* DataRadioButtonBuilder.m */; };
+		D988CD0E17708ABD00A484D5 /* LabelBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD0D17708ABD00A484D5 /* LabelBuilder.m */; };
+		D988CD1117708ACF00A484D5 /* SignedTextBoxBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD1017708ACF00A484D5 /* SignedTextBoxBuilder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,9 +51,29 @@
 		D98441A4176EE7E800CB4996 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D98441A5176EE7E800CB4996 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D98441A8176EE7E800CB4996 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
-		D98441C1176EEBA200CB4996 /* LabelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabelViewController.h; sourceTree = "<group>"; };
-		D98441C2176EEBA200CB4996 /* LabelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabelViewController.m; sourceTree = "<group>"; };
-		D98441C3176EEBA200CB4996 /* LabelViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LabelViewController.xib; sourceTree = "<group>"; };
+		D988CCD1177044D000A484D5 /* CellNotSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CellNotSelected.png; sourceTree = "<group>"; };
+		D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CellNotSelected@2x.png"; sourceTree = "<group>"; };
+		D988CCD3177044D000A484D5 /* CellSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CellSelected.png; sourceTree = "<group>"; };
+		D988CCD4177044D000A484D5 /* CellSelected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CellSelected@2x.png"; sourceTree = "<group>"; };
+		D988CCE6177089FF00A484D5 /* DataRadioButtonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataRadioButtonViewController.h; sourceTree = "<group>"; };
+		D988CCE7177089FF00A484D5 /* DataRadioButtonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataRadioButtonViewController.m; sourceTree = "<group>"; };
+		D988CCE8177089FF00A484D5 /* DataRadioButtonViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DataRadioButtonViewController.xib; sourceTree = "<group>"; };
+		D988CCEA177089FF00A484D5 /* RadioButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RadioButton.h; sourceTree = "<group>"; };
+		D988CCEB177089FF00A484D5 /* RadioButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RadioButton.m; sourceTree = "<group>"; };
+		D988CCED177089FF00A484D5 /* LabelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabelViewController.h; sourceTree = "<group>"; };
+		D988CCEE177089FF00A484D5 /* LabelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabelViewController.m; sourceTree = "<group>"; };
+		D988CCEF177089FF00A484D5 /* LabelViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LabelViewController.xib; sourceTree = "<group>"; };
+		D988CCF1177089FF00A484D5 /* SignedTextBoxViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignedTextBoxViewController.h; sourceTree = "<group>"; };
+		D988CCF2177089FF00A484D5 /* SignedTextBoxViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignedTextBoxViewController.m; sourceTree = "<group>"; };
+		D988CCF3177089FF00A484D5 /* SignedTextBoxViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SignedTextBoxViewController.xib; sourceTree = "<group>"; };
+		D988CCF5177089FF00A484D5 /* UiItemProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UiItemProtocol.h; sourceTree = "<group>"; };
+		D988CD0917708AA900A484D5 /* DataRadioButtonBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataRadioButtonBuilder.h; sourceTree = "<group>"; };
+		D988CD0A17708AA900A484D5 /* DataRadioButtonBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataRadioButtonBuilder.m; sourceTree = "<group>"; };
+		D988CD0C17708ABD00A484D5 /* LabelBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabelBuilder.h; sourceTree = "<group>"; };
+		D988CD0D17708ABD00A484D5 /* LabelBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabelBuilder.m; sourceTree = "<group>"; };
+		D988CD0F17708ACF00A484D5 /* SignedTextBoxBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignedTextBoxBuilder.h; sourceTree = "<group>"; };
+		D988CD1017708ACF00A484D5 /* SignedTextBoxBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignedTextBoxBuilder.m; sourceTree = "<group>"; };
+		D988CD1217708AF500A484D5 /* UiItemBuilderProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UiItemBuilderProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +120,7 @@
 		D9844192176EE7E800CB4996 /* TeachClient */ = {
 			isa = PBXGroup;
 			children = (
+				D988CCCF177044D000A484D5 /* resources */,
 				D98441AF176EE8F400CB4996 /* classes */,
 				D984419B176EE7E800CB4996 /* AppDelegate.h */,
 				D984419C176EE7E800CB4996 /* AppDelegate.m */,
@@ -116,107 +149,270 @@
 		D98441AF176EE8F400CB4996 /* classes */ = {
 			isa = PBXGroup;
 			children = (
-				D98441B4176EEACA00CB4996 /* MathProgrammingControls */,
-				D98441B0176EE8F400CB4996 /* UserControls */,
+				D988CCDA177089FF00A484D5 /* builders */,
+				D988CCDB177089FF00A484D5 /* declarations */,
+				D988CCF4177089FF00A484D5 /* interfaces */,
 			);
 			path = classes;
 			sourceTree = "<group>";
 		};
-		D98441B0176EE8F400CB4996 /* UserControls */ = {
+		D988CCCF177044D000A484D5 /* resources */ = {
 			isa = PBXGroup;
 			children = (
-				D98441B1176EE99500CB4996 /* DataRadioButton */,
-				D98441B2176EE99500CB4996 /* Label */,
-				D98441B3176EE99500CB4996 /* SignedTextBox */,
+				D988CCD0177044D000A484D5 /* images */,
 			);
-			path = UserControls;
+			path = resources;
 			sourceTree = "<group>";
 		};
-		D98441B1176EE99500CB4996 /* DataRadioButton */ = {
+		D988CCD0177044D000A484D5 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				D988CCD1177044D000A484D5 /* CellNotSelected.png */,
+				D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */,
+				D988CCD3177044D000A484D5 /* CellSelected.png */,
+				D988CCD4177044D000A484D5 /* CellSelected@2x.png */,
 			);
-			path = DataRadioButton;
+			path = images;
 			sourceTree = "<group>";
 		};
-		D98441B2176EE99500CB4996 /* Label */ = {
+		D988CCDA177089FF00A484D5 /* builders */ = {
 			isa = PBXGroup;
 			children = (
-				D98441C1176EEBA200CB4996 /* LabelViewController.h */,
-				D98441C2176EEBA200CB4996 /* LabelViewController.m */,
-				D98441C3176EEBA200CB4996 /* LabelViewController.xib */,
+				D988CCFD17708A7F00A484D5 /* MathProgrammingControls */,
+				D988CD0517708A7F00A484D5 /* UserControls */,
 			);
-			path = Label;
+			path = builders;
 			sourceTree = "<group>";
 		};
-		D98441B3176EE99500CB4996 /* SignedTextBox */ = {
+		D988CCDB177089FF00A484D5 /* declarations */ = {
 			isa = PBXGroup;
 			children = (
+				D988CCDC177089FF00A484D5 /* MathProgrammingControls */,
+				D988CCE4177089FF00A484D5 /* UserControls */,
 			);
-			path = SignedTextBox;
+			path = declarations;
 			sourceTree = "<group>";
 		};
-		D98441B4176EEACA00CB4996 /* MathProgrammingControls */ = {
+		D988CCDC177089FF00A484D5 /* MathProgrammingControls */ = {
 			isa = PBXGroup;
 			children = (
-				D98441B5176EEACA00CB4996 /* DppView */,
-				D98441B6176EEACA00CB4996 /* LimitationsArea */,
-				D98441B7176EEACA00CB4996 /* LppResult */,
-				D98441B8176EEACA00CB4996 /* LppView */,
-				D98441B9176EEACA00CB4996 /* SimplexTableView */,
-				D98441BA176EEACA00CB4996 /* StepsContainer */,
-				D98441BB176EEACA00CB4996 /* TargetFunctionBox */,
+				D988CCDD177089FF00A484D5 /* DppView */,
+				D988CCDE177089FF00A484D5 /* LimitationsArea */,
+				D988CCDF177089FF00A484D5 /* LppResult */,
+				D988CCE0177089FF00A484D5 /* LppView */,
+				D988CCE1177089FF00A484D5 /* SimplexTableView */,
+				D988CCE2177089FF00A484D5 /* StepsContainer */,
+				D988CCE3177089FF00A484D5 /* TargetFunctionBox */,
 			);
 			path = MathProgrammingControls;
 			sourceTree = "<group>";
 		};
-		D98441B5176EEACA00CB4996 /* DppView */ = {
+		D988CCDD177089FF00A484D5 /* DppView */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = DppView;
 			sourceTree = "<group>";
 		};
-		D98441B6176EEACA00CB4996 /* LimitationsArea */ = {
+		D988CCDE177089FF00A484D5 /* LimitationsArea */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = LimitationsArea;
 			sourceTree = "<group>";
 		};
-		D98441B7176EEACA00CB4996 /* LppResult */ = {
+		D988CCDF177089FF00A484D5 /* LppResult */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = LppResult;
 			sourceTree = "<group>";
 		};
-		D98441B8176EEACA00CB4996 /* LppView */ = {
+		D988CCE0177089FF00A484D5 /* LppView */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = LppView;
 			sourceTree = "<group>";
 		};
-		D98441B9176EEACA00CB4996 /* SimplexTableView */ = {
+		D988CCE1177089FF00A484D5 /* SimplexTableView */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = SimplexTableView;
 			sourceTree = "<group>";
 		};
-		D98441BA176EEACA00CB4996 /* StepsContainer */ = {
+		D988CCE2177089FF00A484D5 /* StepsContainer */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = StepsContainer;
 			sourceTree = "<group>";
 		};
-		D98441BB176EEACA00CB4996 /* TargetFunctionBox */ = {
+		D988CCE3177089FF00A484D5 /* TargetFunctionBox */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = TargetFunctionBox;
+			sourceTree = "<group>";
+		};
+		D988CCE4177089FF00A484D5 /* UserControls */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCE5177089FF00A484D5 /* DataRadioButton */,
+				D988CCEC177089FF00A484D5 /* Label */,
+				D988CCF0177089FF00A484D5 /* SignedTextBox */,
+			);
+			path = UserControls;
+			sourceTree = "<group>";
+		};
+		D988CCE5177089FF00A484D5 /* DataRadioButton */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCE6177089FF00A484D5 /* DataRadioButtonViewController.h */,
+				D988CCE7177089FF00A484D5 /* DataRadioButtonViewController.m */,
+				D988CCE8177089FF00A484D5 /* DataRadioButtonViewController.xib */,
+				D988CCE9177089FF00A484D5 /* RadioButton */,
+			);
+			path = DataRadioButton;
+			sourceTree = "<group>";
+		};
+		D988CCE9177089FF00A484D5 /* RadioButton */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCEA177089FF00A484D5 /* RadioButton.h */,
+				D988CCEB177089FF00A484D5 /* RadioButton.m */,
+			);
+			path = RadioButton;
+			sourceTree = "<group>";
+		};
+		D988CCEC177089FF00A484D5 /* Label */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCED177089FF00A484D5 /* LabelViewController.h */,
+				D988CCEE177089FF00A484D5 /* LabelViewController.m */,
+				D988CCEF177089FF00A484D5 /* LabelViewController.xib */,
+			);
+			path = Label;
+			sourceTree = "<group>";
+		};
+		D988CCF0177089FF00A484D5 /* SignedTextBox */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCF1177089FF00A484D5 /* SignedTextBoxViewController.h */,
+				D988CCF2177089FF00A484D5 /* SignedTextBoxViewController.m */,
+				D988CCF3177089FF00A484D5 /* SignedTextBoxViewController.xib */,
+			);
+			path = SignedTextBox;
+			sourceTree = "<group>";
+		};
+		D988CCF4177089FF00A484D5 /* interfaces */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCF5177089FF00A484D5 /* UiItemProtocol.h */,
+				D988CD1217708AF500A484D5 /* UiItemBuilderProtocol.h */,
+			);
+			path = interfaces;
+			sourceTree = "<group>";
+		};
+		D988CCFD17708A7F00A484D5 /* MathProgrammingControls */ = {
+			isa = PBXGroup;
+			children = (
+				D988CCFE17708A7F00A484D5 /* DppViewBuilder */,
+				D988CCFF17708A7F00A484D5 /* LimitationsAreaBuilder */,
+				D988CD0017708A7F00A484D5 /* LppResultBuilder */,
+				D988CD0117708A7F00A484D5 /* LppViewBuilder */,
+				D988CD0217708A7F00A484D5 /* SimplexTableViewBuilder */,
+				D988CD0317708A7F00A484D5 /* StepsContainerBuilder */,
+				D988CD0417708A7F00A484D5 /* TargetFunctionBoxBuilder */,
+			);
+			path = MathProgrammingControls;
+			sourceTree = "<group>";
+		};
+		D988CCFE17708A7F00A484D5 /* DppViewBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DppViewBuilder;
+			sourceTree = "<group>";
+		};
+		D988CCFF17708A7F00A484D5 /* LimitationsAreaBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LimitationsAreaBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0017708A7F00A484D5 /* LppResultBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LppResultBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0117708A7F00A484D5 /* LppViewBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LppViewBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0217708A7F00A484D5 /* SimplexTableViewBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SimplexTableViewBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0317708A7F00A484D5 /* StepsContainerBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = StepsContainerBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0417708A7F00A484D5 /* TargetFunctionBoxBuilder */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = TargetFunctionBoxBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0517708A7F00A484D5 /* UserControls */ = {
+			isa = PBXGroup;
+			children = (
+				D988CD0617708A7F00A484D5 /* DataRadioButtonBuilder */,
+				D988CD0717708A7F00A484D5 /* LabelBuilder */,
+				D988CD0817708A7F00A484D5 /* SignedTextBoxBuilder */,
+			);
+			path = UserControls;
+			sourceTree = "<group>";
+		};
+		D988CD0617708A7F00A484D5 /* DataRadioButtonBuilder */ = {
+			isa = PBXGroup;
+			children = (
+				D988CD0917708AA900A484D5 /* DataRadioButtonBuilder.h */,
+				D988CD0A17708AA900A484D5 /* DataRadioButtonBuilder.m */,
+			);
+			path = DataRadioButtonBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0717708A7F00A484D5 /* LabelBuilder */ = {
+			isa = PBXGroup;
+			children = (
+				D988CD0C17708ABD00A484D5 /* LabelBuilder.h */,
+				D988CD0D17708ABD00A484D5 /* LabelBuilder.m */,
+			);
+			path = LabelBuilder;
+			sourceTree = "<group>";
+		};
+		D988CD0817708A7F00A484D5 /* SignedTextBoxBuilder */ = {
+			isa = PBXGroup;
+			children = (
+				D988CD0F17708ACF00A484D5 /* SignedTextBoxBuilder.h */,
+				D988CD1017708ACF00A484D5 /* SignedTextBoxBuilder.m */,
+			);
+			path = SignedTextBoxBuilder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,7 +471,13 @@
 				D98441A1176EE7E800CB4996 /* Default@2x.png in Resources */,
 				D98441A3176EE7E800CB4996 /* Default-568h@2x.png in Resources */,
 				D98441A9176EE7E800CB4996 /* ViewController.xib in Resources */,
-				D98441C5176EEBA200CB4996 /* LabelViewController.xib in Resources */,
+				D988CCD5177044D000A484D5 /* CellNotSelected.png in Resources */,
+				D988CCD6177044D000A484D5 /* CellNotSelected@2x.png in Resources */,
+				D988CCD7177044D000A484D5 /* CellSelected.png in Resources */,
+				D988CCD8177044D000A484D5 /* CellSelected@2x.png in Resources */,
+				D988CCF7177089FF00A484D5 /* DataRadioButtonViewController.xib in Resources */,
+				D988CCFA177089FF00A484D5 /* LabelViewController.xib in Resources */,
+				D988CCFC177089FF00A484D5 /* SignedTextBoxViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,7 +491,13 @@
 				D9844199176EE7E800CB4996 /* main.m in Sources */,
 				D984419D176EE7E800CB4996 /* AppDelegate.m in Sources */,
 				D98441A6176EE7E800CB4996 /* ViewController.m in Sources */,
-				D98441C4176EEBA200CB4996 /* LabelViewController.m in Sources */,
+				D988CCF6177089FF00A484D5 /* DataRadioButtonViewController.m in Sources */,
+				D988CCF8177089FF00A484D5 /* RadioButton.m in Sources */,
+				D988CCF9177089FF00A484D5 /* LabelViewController.m in Sources */,
+				D988CCFB177089FF00A484D5 /* SignedTextBoxViewController.m in Sources */,
+				D988CD0B17708AAA00A484D5 /* DataRadioButtonBuilder.m in Sources */,
+				D988CD0E17708ABD00A484D5 /* LabelBuilder.m in Sources */,
+				D988CD1117708ACF00A484D5 /* SignedTextBoxBuilder.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -368,8 +576,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TeachClient/TeachClient-Prefix.pch";
 				INFOPLIST_FILE = "TeachClient/TeachClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos6.0;
 				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
@@ -381,8 +590,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TeachClient/TeachClient-Prefix.pch";
 				INFOPLIST_FILE = "TeachClient/TeachClient-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos6.0;
 				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
@@ -407,6 +617,7 @@
 				D98441AE176EE7E800CB4996 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
