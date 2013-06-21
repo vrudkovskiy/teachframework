@@ -18,6 +18,22 @@
 		D98441A3176EE7E800CB4996 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D98441A2176EE7E800CB4996 /* Default-568h@2x.png */; };
 		D98441A6176EE7E800CB4996 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98441A5176EE7E800CB4996 /* ViewController.m */; };
 		D98441A9176EE7E800CB4996 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98441A7176EE7E800CB4996 /* ViewController.xib */; };
+		D988C481177257360042F31D /* AFHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C46F177257360042F31D /* AFHTTPClient.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C482177257360042F31D /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C471177257360042F31D /* AFHTTPRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C483177257360042F31D /* AFImageRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C473177257360042F31D /* AFImageRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C484177257360042F31D /* AFJSONRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C475177257360042F31D /* AFJSONRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C485177257360042F31D /* AFNetworkActivityIndicatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C477177257360042F31D /* AFNetworkActivityIndicatorManager.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C486177257360042F31D /* AFPropertyListRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C47A177257360042F31D /* AFPropertyListRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C487177257360042F31D /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C47C177257360042F31D /* AFURLConnectionOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C488177257360042F31D /* AFXMLRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C47E177257360042F31D /* AFXMLRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C489177257360042F31D /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C480177257360042F31D /* UIImageView+AFNetworking.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
+		D988C48C177258EB0042F31D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D988C48B177258EB0042F31D /* SystemConfiguration.framework */; };
+		D988C48E177259010042F31D /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D988C48D177259010042F31D /* MobileCoreServices.framework */; };
+		D988C49717725EAA0042F31D /* TargetFunctionBoxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C49517725EAA0042F31D /* TargetFunctionBoxViewController.m */; };
+		D988C49817725EAA0042F31D /* TargetFunctionBoxViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D988C49617725EAA0042F31D /* TargetFunctionBoxViewController.xib */; };
+		D988C49B17725ECD0042F31D /* TargetFunctionBoxBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C49A17725ECD0042F31D /* TargetFunctionBoxBuilder.m */; };
+		D988C49F177263CE0042F31D /* LimitationsAreaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C49D177263CE0042F31D /* LimitationsAreaViewController.m */; };
+		D988C4A0177263CE0042F31D /* LimitationsAreaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D988C49E177263CE0042F31D /* LimitationsAreaViewController.xib */; };
 		D988CCD5177044D000A484D5 /* CellNotSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD1177044D000A484D5 /* CellNotSelected.png */; };
 		D988CCD6177044D000A484D5 /* CellNotSelected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */; };
 		D988CCD7177044D000A484D5 /* CellSelected.png in Resources */ = {isa = PBXBuildFile; fileRef = D988CCD3177044D000A484D5 /* CellSelected.png */; };
@@ -32,6 +48,22 @@
 		D988CD0B17708AAA00A484D5 /* DataRadioButtonBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD0A17708AA900A484D5 /* DataRadioButtonBuilder.m */; };
 		D988CD0E17708ABD00A484D5 /* LabelBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD0D17708ABD00A484D5 /* LabelBuilder.m */; };
 		D988CD1117708ACF00A484D5 /* SignedTextBoxBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D988CD1017708ACF00A484D5 /* SignedTextBoxBuilder.m */; };
+		D98925581772DF06004FFBFD /* LppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925561772DF06004FFBFD /* LppViewController.m */; };
+		D98925591772DF06004FFBFD /* LppViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98925571772DF06004FFBFD /* LppViewController.xib */; };
+		D989255D1772EDCB004FFBFD /* LppViewBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D989255C1772EDCB004FFBFD /* LppViewBuilder.m */; };
+		D98925601772EDE2004FFBFD /* LppResultBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D989255F1772EDE2004FFBFD /* LppResultBuilder.m */; };
+		D98925631772EDF8004FFBFD /* LimitationsAreaBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925621772EDF8004FFBFD /* LimitationsAreaBuilder.m */; };
+		D98925661772EE08004FFBFD /* DppViewBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925651772EE08004FFBFD /* DppViewBuilder.m */; };
+		D98925691772EE22004FFBFD /* SimplexTableViewBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925681772EE22004FFBFD /* SimplexTableViewBuilder.m */; };
+		D989256C1772EE3D004FFBFD /* StepsContainerBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = D989256B1772EE3D004FFBFD /* StepsContainerBuilder.m */; };
+		D98925701772EF80004FFBFD /* DppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D989256E1772EF80004FFBFD /* DppViewController.m */; };
+		D98925711772EF80004FFBFD /* DppViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D989256F1772EF80004FFBFD /* DppViewController.xib */; };
+		D98925751772EF93004FFBFD /* LppResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925731772EF93004FFBFD /* LppResultViewController.m */; };
+		D98925761772EF93004FFBFD /* LppResultViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98925741772EF93004FFBFD /* LppResultViewController.xib */; };
+		D989257A1772EFA7004FFBFD /* SimplexTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98925781772EFA7004FFBFD /* SimplexTableViewController.m */; };
+		D989257B1772EFA7004FFBFD /* SimplexTableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98925791772EFA7004FFBFD /* SimplexTableViewController.xib */; };
+		D989257F1772EFBE004FFBFD /* StepsContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D989257D1772EFBE004FFBFD /* StepsContainerViewController.m */; };
+		D98925801772EFBE004FFBFD /* StepsContainerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D989257E1772EFBE004FFBFD /* StepsContainerViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +83,35 @@
 		D98441A4176EE7E800CB4996 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D98441A5176EE7E800CB4996 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D98441A8176EE7E800CB4996 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		D988C46E177257360042F31D /* AFHTTPClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPClient.h; sourceTree = "<group>"; };
+		D988C46F177257360042F31D /* AFHTTPClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPClient.m; sourceTree = "<group>"; };
+		D988C470177257360042F31D /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
+		D988C471177257360042F31D /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperation.m; sourceTree = "<group>"; };
+		D988C472177257360042F31D /* AFImageRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFImageRequestOperation.h; sourceTree = "<group>"; };
+		D988C473177257360042F31D /* AFImageRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFImageRequestOperation.m; sourceTree = "<group>"; };
+		D988C474177257360042F31D /* AFJSONRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFJSONRequestOperation.h; sourceTree = "<group>"; };
+		D988C475177257360042F31D /* AFJSONRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFJSONRequestOperation.m; sourceTree = "<group>"; };
+		D988C476177257360042F31D /* AFNetworkActivityIndicatorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkActivityIndicatorManager.h; sourceTree = "<group>"; };
+		D988C477177257360042F31D /* AFNetworkActivityIndicatorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkActivityIndicatorManager.m; sourceTree = "<group>"; };
+		D988C478177257360042F31D /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
+		D988C479177257360042F31D /* AFPropertyListRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFPropertyListRequestOperation.h; sourceTree = "<group>"; };
+		D988C47A177257360042F31D /* AFPropertyListRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFPropertyListRequestOperation.m; sourceTree = "<group>"; };
+		D988C47B177257360042F31D /* AFURLConnectionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLConnectionOperation.h; sourceTree = "<group>"; };
+		D988C47C177257360042F31D /* AFURLConnectionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLConnectionOperation.m; sourceTree = "<group>"; };
+		D988C47D177257360042F31D /* AFXMLRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFXMLRequestOperation.h; sourceTree = "<group>"; };
+		D988C47E177257360042F31D /* AFXMLRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFXMLRequestOperation.m; sourceTree = "<group>"; };
+		D988C47F177257360042F31D /* UIImageView+AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+AFNetworking.h"; sourceTree = "<group>"; };
+		D988C480177257360042F31D /* UIImageView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+AFNetworking.m"; sourceTree = "<group>"; };
+		D988C48B177258EB0042F31D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		D988C48D177259010042F31D /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		D988C49417725EAA0042F31D /* TargetFunctionBoxViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TargetFunctionBoxViewController.h; sourceTree = "<group>"; };
+		D988C49517725EAA0042F31D /* TargetFunctionBoxViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TargetFunctionBoxViewController.m; sourceTree = "<group>"; };
+		D988C49617725EAA0042F31D /* TargetFunctionBoxViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TargetFunctionBoxViewController.xib; sourceTree = "<group>"; };
+		D988C49917725ECD0042F31D /* TargetFunctionBoxBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TargetFunctionBoxBuilder.h; sourceTree = "<group>"; };
+		D988C49A17725ECD0042F31D /* TargetFunctionBoxBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TargetFunctionBoxBuilder.m; sourceTree = "<group>"; };
+		D988C49C177263CE0042F31D /* LimitationsAreaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LimitationsAreaViewController.h; sourceTree = "<group>"; };
+		D988C49D177263CE0042F31D /* LimitationsAreaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LimitationsAreaViewController.m; sourceTree = "<group>"; };
+		D988C49E177263CE0042F31D /* LimitationsAreaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LimitationsAreaViewController.xib; sourceTree = "<group>"; };
 		D988CCD1177044D000A484D5 /* CellNotSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CellNotSelected.png; sourceTree = "<group>"; };
 		D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CellNotSelected@2x.png"; sourceTree = "<group>"; };
 		D988CCD3177044D000A484D5 /* CellSelected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CellSelected.png; sourceTree = "<group>"; };
@@ -74,6 +135,33 @@
 		D988CD0F17708ACF00A484D5 /* SignedTextBoxBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignedTextBoxBuilder.h; sourceTree = "<group>"; };
 		D988CD1017708ACF00A484D5 /* SignedTextBoxBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignedTextBoxBuilder.m; sourceTree = "<group>"; };
 		D988CD1217708AF500A484D5 /* UiItemBuilderProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UiItemBuilderProtocol.h; sourceTree = "<group>"; };
+		D98925551772DF06004FFBFD /* LppViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LppViewController.h; sourceTree = "<group>"; };
+		D98925561772DF06004FFBFD /* LppViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LppViewController.m; sourceTree = "<group>"; };
+		D98925571772DF06004FFBFD /* LppViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LppViewController.xib; sourceTree = "<group>"; };
+		D989255B1772EDCB004FFBFD /* LppViewBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LppViewBuilder.h; sourceTree = "<group>"; };
+		D989255C1772EDCB004FFBFD /* LppViewBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LppViewBuilder.m; sourceTree = "<group>"; };
+		D989255E1772EDE2004FFBFD /* LppResultBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LppResultBuilder.h; sourceTree = "<group>"; };
+		D989255F1772EDE2004FFBFD /* LppResultBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LppResultBuilder.m; sourceTree = "<group>"; };
+		D98925611772EDF8004FFBFD /* LimitationsAreaBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LimitationsAreaBuilder.h; sourceTree = "<group>"; };
+		D98925621772EDF8004FFBFD /* LimitationsAreaBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LimitationsAreaBuilder.m; sourceTree = "<group>"; };
+		D98925641772EE08004FFBFD /* DppViewBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DppViewBuilder.h; sourceTree = "<group>"; };
+		D98925651772EE08004FFBFD /* DppViewBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DppViewBuilder.m; sourceTree = "<group>"; };
+		D98925671772EE22004FFBFD /* SimplexTableViewBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimplexTableViewBuilder.h; sourceTree = "<group>"; };
+		D98925681772EE22004FFBFD /* SimplexTableViewBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimplexTableViewBuilder.m; sourceTree = "<group>"; };
+		D989256A1772EE3D004FFBFD /* StepsContainerBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StepsContainerBuilder.h; sourceTree = "<group>"; };
+		D989256B1772EE3D004FFBFD /* StepsContainerBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StepsContainerBuilder.m; sourceTree = "<group>"; };
+		D989256D1772EF80004FFBFD /* DppViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DppViewController.h; sourceTree = "<group>"; };
+		D989256E1772EF80004FFBFD /* DppViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DppViewController.m; sourceTree = "<group>"; };
+		D989256F1772EF80004FFBFD /* DppViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DppViewController.xib; sourceTree = "<group>"; };
+		D98925721772EF93004FFBFD /* LppResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LppResultViewController.h; sourceTree = "<group>"; };
+		D98925731772EF93004FFBFD /* LppResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LppResultViewController.m; sourceTree = "<group>"; };
+		D98925741772EF93004FFBFD /* LppResultViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LppResultViewController.xib; sourceTree = "<group>"; };
+		D98925771772EFA7004FFBFD /* SimplexTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimplexTableViewController.h; sourceTree = "<group>"; };
+		D98925781772EFA7004FFBFD /* SimplexTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimplexTableViewController.m; sourceTree = "<group>"; };
+		D98925791772EFA7004FFBFD /* SimplexTableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SimplexTableViewController.xib; sourceTree = "<group>"; };
+		D989257C1772EFBE004FFBFD /* StepsContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StepsContainerViewController.h; sourceTree = "<group>"; };
+		D989257D1772EFBE004FFBFD /* StepsContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StepsContainerViewController.m; sourceTree = "<group>"; };
+		D989257E1772EFBE004FFBFD /* StepsContainerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StepsContainerViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +169,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D988C48E177259010042F31D /* MobileCoreServices.framework in Frameworks */,
+				D988C48C177258EB0042F31D /* SystemConfiguration.framework in Frameworks */,
 				D984418D176EE7E800CB4996 /* UIKit.framework in Frameworks */,
 				D984418F176EE7E800CB4996 /* Foundation.framework in Frameworks */,
 				D9844191176EE7E800CB4996 /* CoreGraphics.framework in Frameworks */,
@@ -110,6 +200,8 @@
 		D984418B176EE7E800CB4996 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D988C48D177259010042F31D /* MobileCoreServices.framework */,
+				D988C48B177258EB0042F31D /* SystemConfiguration.framework */,
 				D984418C176EE7E800CB4996 /* UIKit.framework */,
 				D984418E176EE7E800CB4996 /* Foundation.framework */,
 				D9844190176EE7E800CB4996 /* CoreGraphics.framework */,
@@ -120,6 +212,7 @@
 		D9844192176EE7E800CB4996 /* TeachClient */ = {
 			isa = PBXGroup;
 			children = (
+				D988C46C177257360042F31D /* libraries */,
 				D988CCCF177044D000A484D5 /* resources */,
 				D98441AF176EE8F400CB4996 /* classes */,
 				D984419B176EE7E800CB4996 /* AppDelegate.h */,
@@ -154,6 +247,40 @@
 				D988CCF4177089FF00A484D5 /* interfaces */,
 			);
 			path = classes;
+			sourceTree = "<group>";
+		};
+		D988C46C177257360042F31D /* libraries */ = {
+			isa = PBXGroup;
+			children = (
+				D988C46D177257360042F31D /* AFNetworking */,
+			);
+			path = libraries;
+			sourceTree = "<group>";
+		};
+		D988C46D177257360042F31D /* AFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				D988C46E177257360042F31D /* AFHTTPClient.h */,
+				D988C46F177257360042F31D /* AFHTTPClient.m */,
+				D988C470177257360042F31D /* AFHTTPRequestOperation.h */,
+				D988C471177257360042F31D /* AFHTTPRequestOperation.m */,
+				D988C472177257360042F31D /* AFImageRequestOperation.h */,
+				D988C473177257360042F31D /* AFImageRequestOperation.m */,
+				D988C474177257360042F31D /* AFJSONRequestOperation.h */,
+				D988C475177257360042F31D /* AFJSONRequestOperation.m */,
+				D988C476177257360042F31D /* AFNetworkActivityIndicatorManager.h */,
+				D988C477177257360042F31D /* AFNetworkActivityIndicatorManager.m */,
+				D988C478177257360042F31D /* AFNetworking.h */,
+				D988C479177257360042F31D /* AFPropertyListRequestOperation.h */,
+				D988C47A177257360042F31D /* AFPropertyListRequestOperation.m */,
+				D988C47B177257360042F31D /* AFURLConnectionOperation.h */,
+				D988C47C177257360042F31D /* AFURLConnectionOperation.m */,
+				D988C47D177257360042F31D /* AFXMLRequestOperation.h */,
+				D988C47E177257360042F31D /* AFXMLRequestOperation.m */,
+				D988C47F177257360042F31D /* UIImageView+AFNetworking.h */,
+				D988C480177257360042F31D /* UIImageView+AFNetworking.m */,
+			);
+			path = AFNetworking;
 			sourceTree = "<group>";
 		};
 		D988CCCF177044D000A484D5 /* resources */ = {
@@ -210,6 +337,9 @@
 		D988CCDD177089FF00A484D5 /* DppView */ = {
 			isa = PBXGroup;
 			children = (
+				D989256D1772EF80004FFBFD /* DppViewController.h */,
+				D989256E1772EF80004FFBFD /* DppViewController.m */,
+				D989256F1772EF80004FFBFD /* DppViewController.xib */,
 			);
 			path = DppView;
 			sourceTree = "<group>";
@@ -217,6 +347,9 @@
 		D988CCDE177089FF00A484D5 /* LimitationsArea */ = {
 			isa = PBXGroup;
 			children = (
+				D988C49C177263CE0042F31D /* LimitationsAreaViewController.h */,
+				D988C49D177263CE0042F31D /* LimitationsAreaViewController.m */,
+				D988C49E177263CE0042F31D /* LimitationsAreaViewController.xib */,
 			);
 			path = LimitationsArea;
 			sourceTree = "<group>";
@@ -224,6 +357,9 @@
 		D988CCDF177089FF00A484D5 /* LppResult */ = {
 			isa = PBXGroup;
 			children = (
+				D98925721772EF93004FFBFD /* LppResultViewController.h */,
+				D98925731772EF93004FFBFD /* LppResultViewController.m */,
+				D98925741772EF93004FFBFD /* LppResultViewController.xib */,
 			);
 			path = LppResult;
 			sourceTree = "<group>";
@@ -231,6 +367,9 @@
 		D988CCE0177089FF00A484D5 /* LppView */ = {
 			isa = PBXGroup;
 			children = (
+				D98925551772DF06004FFBFD /* LppViewController.h */,
+				D98925561772DF06004FFBFD /* LppViewController.m */,
+				D98925571772DF06004FFBFD /* LppViewController.xib */,
 			);
 			path = LppView;
 			sourceTree = "<group>";
@@ -238,6 +377,9 @@
 		D988CCE1177089FF00A484D5 /* SimplexTableView */ = {
 			isa = PBXGroup;
 			children = (
+				D98925771772EFA7004FFBFD /* SimplexTableViewController.h */,
+				D98925781772EFA7004FFBFD /* SimplexTableViewController.m */,
+				D98925791772EFA7004FFBFD /* SimplexTableViewController.xib */,
 			);
 			path = SimplexTableView;
 			sourceTree = "<group>";
@@ -245,6 +387,9 @@
 		D988CCE2177089FF00A484D5 /* StepsContainer */ = {
 			isa = PBXGroup;
 			children = (
+				D989257C1772EFBE004FFBFD /* StepsContainerViewController.h */,
+				D989257D1772EFBE004FFBFD /* StepsContainerViewController.m */,
+				D989257E1772EFBE004FFBFD /* StepsContainerViewController.xib */,
 			);
 			path = StepsContainer;
 			sourceTree = "<group>";
@@ -252,6 +397,9 @@
 		D988CCE3177089FF00A484D5 /* TargetFunctionBox */ = {
 			isa = PBXGroup;
 			children = (
+				D988C49417725EAA0042F31D /* TargetFunctionBoxViewController.h */,
+				D988C49517725EAA0042F31D /* TargetFunctionBoxViewController.m */,
+				D988C49617725EAA0042F31D /* TargetFunctionBoxViewController.xib */,
 			);
 			path = TargetFunctionBox;
 			sourceTree = "<group>";
@@ -332,6 +480,8 @@
 		D988CCFE17708A7F00A484D5 /* DppViewBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D98925641772EE08004FFBFD /* DppViewBuilder.h */,
+				D98925651772EE08004FFBFD /* DppViewBuilder.m */,
 			);
 			path = DppViewBuilder;
 			sourceTree = "<group>";
@@ -339,6 +489,8 @@
 		D988CCFF17708A7F00A484D5 /* LimitationsAreaBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D98925611772EDF8004FFBFD /* LimitationsAreaBuilder.h */,
+				D98925621772EDF8004FFBFD /* LimitationsAreaBuilder.m */,
 			);
 			path = LimitationsAreaBuilder;
 			sourceTree = "<group>";
@@ -346,6 +498,8 @@
 		D988CD0017708A7F00A484D5 /* LppResultBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D989255E1772EDE2004FFBFD /* LppResultBuilder.h */,
+				D989255F1772EDE2004FFBFD /* LppResultBuilder.m */,
 			);
 			path = LppResultBuilder;
 			sourceTree = "<group>";
@@ -353,6 +507,8 @@
 		D988CD0117708A7F00A484D5 /* LppViewBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D989255B1772EDCB004FFBFD /* LppViewBuilder.h */,
+				D989255C1772EDCB004FFBFD /* LppViewBuilder.m */,
 			);
 			path = LppViewBuilder;
 			sourceTree = "<group>";
@@ -360,6 +516,8 @@
 		D988CD0217708A7F00A484D5 /* SimplexTableViewBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D98925671772EE22004FFBFD /* SimplexTableViewBuilder.h */,
+				D98925681772EE22004FFBFD /* SimplexTableViewBuilder.m */,
 			);
 			path = SimplexTableViewBuilder;
 			sourceTree = "<group>";
@@ -367,6 +525,8 @@
 		D988CD0317708A7F00A484D5 /* StepsContainerBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D989256A1772EE3D004FFBFD /* StepsContainerBuilder.h */,
+				D989256B1772EE3D004FFBFD /* StepsContainerBuilder.m */,
 			);
 			path = StepsContainerBuilder;
 			sourceTree = "<group>";
@@ -374,6 +534,8 @@
 		D988CD0417708A7F00A484D5 /* TargetFunctionBoxBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				D988C49917725ECD0042F31D /* TargetFunctionBoxBuilder.h */,
+				D988C49A17725ECD0042F31D /* TargetFunctionBoxBuilder.m */,
 			);
 			path = TargetFunctionBoxBuilder;
 			sourceTree = "<group>";
@@ -478,6 +640,13 @@
 				D988CCF7177089FF00A484D5 /* DataRadioButtonViewController.xib in Resources */,
 				D988CCFA177089FF00A484D5 /* LabelViewController.xib in Resources */,
 				D988CCFC177089FF00A484D5 /* SignedTextBoxViewController.xib in Resources */,
+				D988C49817725EAA0042F31D /* TargetFunctionBoxViewController.xib in Resources */,
+				D988C4A0177263CE0042F31D /* LimitationsAreaViewController.xib in Resources */,
+				D98925591772DF06004FFBFD /* LppViewController.xib in Resources */,
+				D98925711772EF80004FFBFD /* DppViewController.xib in Resources */,
+				D98925761772EF93004FFBFD /* LppResultViewController.xib in Resources */,
+				D989257B1772EFA7004FFBFD /* SimplexTableViewController.xib in Resources */,
+				D98925801772EFBE004FFBFD /* StepsContainerViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +667,29 @@
 				D988CD0B17708AAA00A484D5 /* DataRadioButtonBuilder.m in Sources */,
 				D988CD0E17708ABD00A484D5 /* LabelBuilder.m in Sources */,
 				D988CD1117708ACF00A484D5 /* SignedTextBoxBuilder.m in Sources */,
+				D988C481177257360042F31D /* AFHTTPClient.m in Sources */,
+				D988C482177257360042F31D /* AFHTTPRequestOperation.m in Sources */,
+				D988C483177257360042F31D /* AFImageRequestOperation.m in Sources */,
+				D988C484177257360042F31D /* AFJSONRequestOperation.m in Sources */,
+				D988C485177257360042F31D /* AFNetworkActivityIndicatorManager.m in Sources */,
+				D988C486177257360042F31D /* AFPropertyListRequestOperation.m in Sources */,
+				D988C487177257360042F31D /* AFURLConnectionOperation.m in Sources */,
+				D988C488177257360042F31D /* AFXMLRequestOperation.m in Sources */,
+				D988C489177257360042F31D /* UIImageView+AFNetworking.m in Sources */,
+				D988C49717725EAA0042F31D /* TargetFunctionBoxViewController.m in Sources */,
+				D988C49B17725ECD0042F31D /* TargetFunctionBoxBuilder.m in Sources */,
+				D988C49F177263CE0042F31D /* LimitationsAreaViewController.m in Sources */,
+				D98925581772DF06004FFBFD /* LppViewController.m in Sources */,
+				D989255D1772EDCB004FFBFD /* LppViewBuilder.m in Sources */,
+				D98925601772EDE2004FFBFD /* LppResultBuilder.m in Sources */,
+				D98925631772EDF8004FFBFD /* LimitationsAreaBuilder.m in Sources */,
+				D98925661772EE08004FFBFD /* DppViewBuilder.m in Sources */,
+				D98925691772EE22004FFBFD /* SimplexTableViewBuilder.m in Sources */,
+				D989256C1772EE3D004FFBFD /* StepsContainerBuilder.m in Sources */,
+				D98925701772EF80004FFBFD /* DppViewController.m in Sources */,
+				D98925751772EF93004FFBFD /* LppResultViewController.m in Sources */,
+				D989257A1772EFA7004FFBFD /* SimplexTableViewController.m in Sources */,
+				D989257F1772EFBE004FFBFD /* StepsContainerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

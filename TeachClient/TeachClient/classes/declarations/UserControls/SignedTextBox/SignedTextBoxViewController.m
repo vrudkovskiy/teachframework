@@ -55,6 +55,7 @@
     self.tfText = nil;
     self.name = nil;
     self.text = nil;
+    self.sign = nil;
     
     [super dealloc];
 }
