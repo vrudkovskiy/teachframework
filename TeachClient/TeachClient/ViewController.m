@@ -15,6 +15,10 @@
 #import "LabelBuilder.h"
 #import "SignedTextBoxBuilder.h"
 
+#import "TargetFunctionBoxBuilder.h"
+#import "LimitationsAreaBuilder.h"
+#import "LppViewBuilder.h"
+
 @interface ViewController ()
 
 @property (nonatomic, retain) IBOutlet UIScrollView *controlsPanel;
@@ -53,6 +57,7 @@
     [super viewDidLoad];
     
     [self initControlBuilders];
+    self.controls = [NSMutableArray array];
     
     [self submit];
 }
@@ -84,14 +89,22 @@
     
     builder = [[[SignedTextBoxBuilder alloc] init] autorelease];
     [self.controlBuilders setObject:builder forKey:builder.description];
+    
+    
+    builder = [[[TargetFunctionBoxBuilder alloc] init] autorelease];
+    [self.controlBuilders setObject:builder forKey:builder.description];
+    
+    builder = [[[LimitationsAreaBuilder alloc] init] autorelease];
+    [self.controlBuilders setObject:builder forKey:builder.description];
+    
+    builder = [[[LppViewBuilder alloc] init] autorelease];
+    [self.controlBuilders setObject:builder forKey:builder.description];
 }
 
-- (void)setDataControls:(NSString *)jsonArrayString
+- (void)setDataControls:(NSArray *)jsonArray
 {    
-    NSArray *controlsDictioneries = [NSJSONSerialization JSONObjectWithData:[jsonArrayString dataUsingEncoding:NSUTF8StringEncoding] options:NSJSONReadingMutableContainers error:nil];
-    
-    float coordY = 10;
-    for (NSDictionary *dictionary in controlsDictioneries)
+    float coordY = 44;
+    for (NSDictionary *dictionary in jsonArray)
     {
         NSString *controlType = [dictionary objectForKey:@"ControlType"];
         id<UiItemBuilderProtocol> builder = [self.controlBuilders objectForKey:controlType];
@@ -108,7 +121,16 @@
 
 - (NSString *)jsonRepresentation
 {
-    NSString *controlsString = [self.controls componentsJoinedByString:@", "];
+    NSString *controlsString = @"";
+    for (id<UiItemProtocol> control in self.controls)
+    {
+        controlsString = [controlsString stringByAppendingString:control.jsonRepresentation];
+        if (control != [self.controls lastObject])
+        {
+            controlsString = [controlsString stringByAppendingString:@", "];
+        }
+    }
+    
     return [NSString stringWithFormat:@"[ %@ ]", controlsString != nil ? controlsString : @""];
 }
 
@@ -118,25 +140,25 @@
     {
         [viewController.view removeFromSuperview];
     }
-    self.controls = nil;
+    self.controls = [NSMutableArray array];
 }
 
 - (void)submit
 {
-    [self sendRequestWithUrl:@"submit"];
+    [self sendRequestWithUrl:@"submit" key:@"SubmitResult"];
 }
 
 - (void)reset
 {
-    [self sendRequestWithUrl:@"reset"];
+    [self sendRequestWithUrl:@"reset" key:@"ResetResult"];
 }
 
 - (void)automatic
 {
-    [self sendRequestWithUrl:@"auto"];
+    [self sendRequestWithUrl:@"auto" key :@"AutoResult"];
 }
 
-- (void)sendRequestWithUrl:(NSString *)urlStr
+- (void)sendRequestWithUrl:(NSString *)urlStr key:(NSString *)key
 {
     [self showActivityIndicator];
     
@@ -145,15 +167,35 @@
     
     httpClient.parameterEncoding = AFJSONParameterEncoding;
     NSDictionary *params = @{ @"Controls": self.jsonRepresentation };
+    NSLog (@"%@ ", [params objectForKey:@"Controls"]);
     NSMutableURLRequest *request = [httpClient requestWithMethod:@"POST" path:urlStr parameters:params];
     
     AFHTTPRequestOperation *operation = [AFJSONRequestOperation JSONRequestOperationWithRequest:request
                                                                                         success:^(NSURLRequest *request, NSHTTPURLResponse *response, id JSON)
                                          {
-                                             NSLog (@"%@", JSON);
-                                             
-                                             [self setDataControls:[JSON valueForKeyPath:@"GetDataResult"]];
+                                             [self clearControls];
+                                             NSString *respStr = [[JSON valueForKeyPath:key] stringByReplacingOccurrencesOfString:@"\r\n" withString:@""];
+                                             NSLog (@"%@", respStr);
+                                             NSError *err = nil;
+                                             NSDictionary *result = [NSJSONSerialization JSONObjectWithData:[respStr dataUsingEncoding:NSUTF8StringEncoding]
+                                                                                                     options:NSJSONReadingMutableContainers
+                                                                                                       error:&err];
+                                             if (err != nil)
+                                             NSLog (@"%@", err.localizedDescription);
+                                             [self setDataControls:[result objectForKey:@"Controls"]];
                                              [self hideAvtivityIndicator];
+                                             
+                                             if (((NSString *)[result objectForKey:@"Message"]).length > 0)
+                                             {
+                                                 NSLog (@"Message: %@", [result objectForKey:@"Message"]);
+                                                 UIAlertView *alert = [[UIAlertView alloc] initWithTitle:nil
+                                                                                                 message:[result objectForKey:@"Message"]
+                                                                                                delegate:nil
+                                                                                       cancelButtonTitle:@"OK"
+                                                                                       otherButtonTitles: nil];
+                                                 [alert show];
+                                                 [alert release];
+                                             }
                                          }
                                                                                         failure:^(NSURLRequest *request, NSHTTPURLResponse *response, NSError *error, id JSON)
                                          {
@@ -172,7 +214,7 @@
 
 - (void)showActivityIndicator
 {
-    self.activityView.hidden = YES;
+    self.activityView.hidden = NO;
 }
 
 - (void)hideAvtivityIndicator

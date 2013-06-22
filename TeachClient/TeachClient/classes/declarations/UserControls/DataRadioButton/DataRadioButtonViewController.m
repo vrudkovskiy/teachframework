@@ -48,7 +48,7 @@
 
 - (NSString *)jsonRepresentation
 {
-    return [NSString stringWithFormat:@"{\"Name\": \"%@\", \"Text\": \"%@\", \"Value\": %@}", self.name, self.text, self.checked ? @"true" : @"false"];
+    return [NSString stringWithFormat:@"{\"Name\": \"%@\", \"Text\": \"%@\", \"Value\": %@}", self.name, self.text, self.btnRadio.selected ? @"true" : @"false"];
 }
 
 - (void)viewDidLoad
@@ -59,7 +59,7 @@
     [self.view addGestureRecognizer:recognizer];
     
     self.btnRadio.selected = self.checked;
-    self.btnRadio.enabled = !self.editable;
+    self.btnRadio.enabled = self.editable;
     self.lblText.text = self.text;
     self.btnRadio.container = self;
 }

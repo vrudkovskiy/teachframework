@@ -67,7 +67,7 @@
     
     self.lblSign.text = self.sign;
     self.tfText.text = self.text;
-    self.tfText.enabled = !self.editable;
+    self.tfText.enabled = self.editable;
 }
 
 @end

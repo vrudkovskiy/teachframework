@@ -11,6 +11,7 @@
 @interface LimitationsAreaViewController ()
 
 @property (nonatomic, retain) IBOutlet UITextView *tvLimitations;
+@property (nonatomic, retain) IBOutlet UIImageView *ivBorder;
 
 @property (nonatomic, retain) NSString *name;
 @property (nonatomic, retain) NSString *limitations;
@@ -24,25 +25,27 @@
 {
     self = [super initWithNibName:@"LimitationsAreaViewController" bundle:nil];
     if (self)
-    {/*
+    {
         self.name = [descriptionDictionary objectForKey:@"Name"];
-        self.formula = [descriptionDictionary objectForKey:@"Text"];
-        self.target = [descriptionDictionary objectForKey:@"Value"];
-        self.editable = [[descriptionDictionary objectForKey:@"Editable"] boolValue];*/
+        self.limitations = [descriptionDictionary objectForKey:@"Value"];
+        self.editable = [[descriptionDictionary objectForKey:@"Editable"] boolValue];
     }
     return self;
+}
+
+- (NSString *)jsonRepresentation
+{
+    return [NSString stringWithFormat:@"{\"Name\" : \"%@\", \"Value\" : \"%@\"}", self.name, self.tvLimitations.text];
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    self.tvLimitations.text = self.limitations;
+    self.tvLimitations.editable = self.editable;
+    
+    self.ivBorder.image = [[UIImage imageNamed:@"textView_bg_stretchable.png"] stretchableImageWithLeftCapWidth:5 topCapHeight:5];
 }
 
 @end

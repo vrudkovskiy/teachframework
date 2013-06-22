@@ -8,7 +8,7 @@
 
 #import "TargetFunctionBoxViewController.h"
 
-@interface TargetFunctionBoxViewController ()
+@interface TargetFunctionBoxViewController ()<UIActionSheetDelegate>
 
 @property (nonatomic, retain) IBOutlet UITextField *tfFormula;
 @property (nonatomic, retain) IBOutlet UIButton *btnTarget;
@@ -17,6 +17,8 @@
 @property (nonatomic, retain) NSString *formula;
 @property (nonatomic, retain) NSString *target;
 @property (nonatomic, assign) BOOL editable;
+
+- (IBAction)onChooseTargetBtnClick:(id)sender;
 
 @end
 
@@ -40,9 +42,7 @@
         self.name = [descriptionDictionary objectForKey:@"Name"];
         self.editable = [[descriptionDictionary objectForKey:@"Editable"] boolValue];
         
-        NSDictionary *targetFunctionDictionary = [NSJSONSerialization JSONObjectWithData:[[descriptionDictionary objectForKey:@"Value"] dataUsingEncoding:NSUTF8StringEncoding]
-                                                                                 options:NSJSONReadingMutableContainers
-                                                                                   error:nil];
+        NSDictionary *targetFunctionDictionary = [descriptionDictionary objectForKey:@"Value"];
         self.formula = [targetFunctionDictionary objectForKey:@"Formula"];
         self.target = [targetFunctionDictionary objectForKey:@"Target"];
     }
@@ -51,7 +51,7 @@
 
 - (NSString *)jsonRepresentation
 {
-    return [NSString stringWithFormat:@"{\"Name\" : \"%@\", \"Value\" : \"{ \"Formula\" : \"%@\", \"Target\" : \"%@\"}\"}", self.name, self.tfFormula.text, self.btnTarget.titleLabel.text];
+    return [NSString stringWithFormat:@"{\"Name\" : \"%@\", \"Value\" : \"{ <tf_value>Formula<tf_value> : <tf_value>%@<tf_value>, <tf_value>Target<tf_value> : <tf_value>%@<tf_value>}\"}", self.name, self.tfFormula.text, self.btnTarget.titleLabel.text];
 }
 
 - (void)dealloc
@@ -71,9 +71,21 @@
     [super viewDidLoad];
     
     self.tfFormula.text = self.formula;
-    self.tfFormula.enabled = !self.editable;
+    self.tfFormula.enabled = self.editable;
     self.btnTarget.titleLabel.text = self.target;
-    self.tfFormula.enabled = !self.editable;
+    self.btnTarget.enabled = self.editable;
+}
+
+- (void)onChooseTargetBtnClick:(id)sender
+{
+    UIActionSheet *chooseTargetActionSheet = [[UIActionSheet alloc] initWithTitle:nil delegate:self cancelButtonTitle:nil destructiveButtonTitle:nil otherButtonTitles:@"min", @"max", nil];
+    [chooseTargetActionSheet showFromRect:self.btnTarget.frame inView:self.view animated:YES];
+    [chooseTargetActionSheet release];
+}
+
+- (void)actionSheet:(UIActionSheet *)actionSheet clickedButtonAtIndex:(NSInteger)buttonIndex
+{
+    [self.btnTarget setTitle:[actionSheet buttonTitleAtIndex:buttonIndex] forState:UIControlStateNormal];
 }
 
 @end

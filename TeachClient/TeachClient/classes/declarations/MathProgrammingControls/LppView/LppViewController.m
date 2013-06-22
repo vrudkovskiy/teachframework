@@ -33,13 +33,32 @@
         self.name = [descriptionDictionary objectForKey:@"Name"];
         self.editable = [[descriptionDictionary objectForKey:@"Editable"] boolValue];
         
-        NSDictionary *lppDictionary = [NSJSONSerialization JSONObjectWithData:[[descriptionDictionary objectForKey:@"Value"] dataUsingEncoding:NSUTF8StringEncoding]
-                                                                      options:NSJSONReadingMutableContainers
-                                                                        error:nil];
-        //self.target = [[[TargetFunctionBoxViewController alloc] initWithUiDescriptionItem:[lppDictionary objectForKey:@"TargetFunction"]] autorelease];
-        //self.limitations = [[[LimitationsAreaViewController alloc] initWithUiDescriptionItem:[lppDictionary objectForKey:@"Limitations"]] autorelease];
+        NSDictionary *lppDictionary = [descriptionDictionary objectForKey:@"Value"];
+        self.target = [[[TargetFunctionBoxViewController alloc] initWithUiDescriptionItem:[lppDictionary objectForKey:@"TargetFunction"]] autorelease];
+        self.limitations = [[[LimitationsAreaViewController alloc] initWithUiDescriptionItem:[lppDictionary objectForKey:@"LimitationsArea"]] autorelease];
     }
     return self;
+}
+
+- (NSString *)jsonRepresentation
+{
+    NSString *jsonValueStr = [NSString stringWithFormat:@"{ \"TargetFunction\" : \"%@\", \"Limitations\" : \"%@\"}",
+                              [self.target.jsonRepresentation stringByReplacingOccurrencesOfString:@"\"" withString:@"<lpp_tf>"],
+                              [self.limitations.jsonRepresentation stringByReplacingOccurrencesOfString:@"\"" withString:@"<lpp_lim>"]];
+    
+    return [NSString stringWithFormat:@"{\"Name\" : \"%@\", \"Value\" : \"%@\" }", self.name, [jsonValueStr stringByReplacingOccurrencesOfString:@"\"" withString:@"<lpp_value>"]];
+}
+
+- (void)dealloc
+{
+    self.name = nil;
+    self.target = nil;
+    self.limitations = nil;
+    
+    self.targetPlaceholder = nil;
+    self.limitationsPlaceholder = nil;
+    
+    [super dealloc];
 }
 
 - (void)viewDidLoad

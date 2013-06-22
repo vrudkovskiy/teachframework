@@ -7,12 +7,13 @@
 //
 
 #import "LppViewBuilder.h"
+#import "LppViewController.h"
 
 @implementation LppViewBuilder
 
 - (id<UiItemProtocol>)createWithUiDescription:(NSDictionary *)uiDescription
 {
-    assert(@"LppViewBuilder not implemented");
+    return [[[LppViewController alloc] initWithUiDescriptionItem:uiDescription] autorelease];
 }
 
 - (NSString *)description

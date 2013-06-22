@@ -18,6 +18,7 @@
 		D98441A3176EE7E800CB4996 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D98441A2176EE7E800CB4996 /* Default-568h@2x.png */; };
 		D98441A6176EE7E800CB4996 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D98441A5176EE7E800CB4996 /* ViewController.m */; };
 		D98441A9176EE7E800CB4996 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D98441A7176EE7E800CB4996 /* ViewController.xib */; };
+		D987175617761CC600AE458A /* textView_bg_stretchable@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D987175517761CC600AE458A /* textView_bg_stretchable@2x.png */; };
 		D988C481177257360042F31D /* AFHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C46F177257360042F31D /* AFHTTPClient.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		D988C482177257360042F31D /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C471177257360042F31D /* AFHTTPRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		D988C483177257360042F31D /* AFImageRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D988C473177257360042F31D /* AFImageRequestOperation.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
@@ -83,6 +84,7 @@
 		D98441A4176EE7E800CB4996 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D98441A5176EE7E800CB4996 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D98441A8176EE7E800CB4996 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		D987175517761CC600AE458A /* textView_bg_stretchable@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "textView_bg_stretchable@2x.png"; sourceTree = "<group>"; };
 		D988C46E177257360042F31D /* AFHTTPClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPClient.h; sourceTree = "<group>"; };
 		D988C46F177257360042F31D /* AFHTTPClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPClient.m; sourceTree = "<group>"; };
 		D988C470177257360042F31D /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
@@ -294,6 +296,7 @@
 		D988CCD0177044D000A484D5 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				D987175517761CC600AE458A /* textView_bg_stretchable@2x.png */,
 				D988CCD1177044D000A484D5 /* CellNotSelected.png */,
 				D988CCD2177044D000A484D5 /* CellNotSelected@2x.png */,
 				D988CCD3177044D000A484D5 /* CellSelected.png */,
@@ -647,6 +650,7 @@
 				D98925761772EF93004FFBFD /* LppResultViewController.xib in Resources */,
 				D989257B1772EFA7004FFBFD /* SimplexTableViewController.xib in Resources */,
 				D98925801772EFBE004FFBFD /* StepsContainerViewController.xib in Resources */,
+				D987175617761CC600AE458A /* textView_bg_stretchable@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

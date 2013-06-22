@@ -7,12 +7,13 @@
 //
 
 #import "LimitationsAreaBuilder.h"
+#import "LimitationsAreaViewController.h"
 
 @implementation LimitationsAreaBuilder
 
 - (id<UiItemProtocol>)createWithUiDescription:(NSDictionary *)uiDescription
 {
-    assert(@"LimitationsAreaBuilder not implemented");
+    return [[[LimitationsAreaViewController alloc] initWithUiDescriptionItem:uiDescription] autorelease];
 }
 
 - (NSString *)description
